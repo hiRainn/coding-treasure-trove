@@ -6,10 +6,10 @@ Click to navigate to the directory
 
 
 ## golang
-- [mysql](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/database/mysql_client.go)
+- **mysql**
     - [conect to MySQL](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/database/mysql_client.go#L24)
     - [query slave status](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/database/mysql_client.go#L46)
-- [websock相关]
+- **websock**
     - [start websock service](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/websock/start_ws_service.go)
     - [Real-time monitoring of MySQL master-slave status by websock](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/websock/watch_master_slave_status.go)
 
