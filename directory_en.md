@@ -5,16 +5,13 @@ Click to navigate to the directory
 - [shell](#shell)
 
 
-
-
-
-
-
-
-
 ## golang
-
-- [Real-time monitoring of MySQL master-slave status by websock](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/master-slave-by-ws.go)
+- [mysql](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/database/mysql_client.go)
+    - [conect to MySQL](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/database/mysql_client.go#L24)
+    - [query slave status](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/database/mysql_client.go#L46)
+- [websock相关]
+    - [start websock service](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/websock/start_ws_service.go)
+    - [Real-time monitoring of MySQL master-slave status by websock](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/websock/watch_master_slave_status.go)
 
 
 
