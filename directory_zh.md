@@ -33,4 +33,6 @@
 
 ## shell
 
-- [start_mysql](https://github.com/hiRainn/coding-treasure-trove/blob/master/shell/start_mysql.sh)
+- [启动mysql](https://github.com/hiRainn/coding-treasure-trove/blob/master/shell/mysql/start_mysql.sh)
+- [停止mysql](https://github.com/hiRainn/coding-treasure-trove/blob/master/shell/mysql/stop_mysql.sh)
+- [重启mysql](https://github.com/hiRainn/coding-treasure-trove/blob/master/shell/mysql/restart_mysql.sh)
