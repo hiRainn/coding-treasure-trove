@@ -8,10 +8,11 @@
 
 - **mysql相关函数**
     - [连接MySQL](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/database/mysql_client.go#L24)
-    - [查询从库主从状态](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/database/mysql_client.go#L46)
+    - [关闭MySQL](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/database/mysql_client.go#L45)
+    - [查询从库主从状态](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/database/mysql_client.go#L53)
 - **websock相关**
-    - [启动websock服务](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/websock/start_ws_service.go)
-    - [通过websock实时监控MySQL主从状态](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/websock/watch_master_slave_status.go)
+    - [启动websock服务](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/websock/start_ws_service.go#L17)
+    - [通过websock实时监控MySQL主从状态](https://github.com/hiRainn/coding-treasure-trove/blob/master/golang/websock/watch_master_slave_status.go#L17)
 
 
 
