@@ -19,7 +19,7 @@ Click to navigate to the directory
 
 ## python
 
-- 
+- [excute mysql](https://github.com/hiRainn/coding-treasure-trove/blob/master/python/database/mysql.py)
 
 
 ## shell
