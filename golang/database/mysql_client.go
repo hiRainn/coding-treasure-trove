@@ -43,6 +43,7 @@ func (cfg *MySQLConn) NewConn() (err error) {
 	return
 }
 
+//close mysql connect
 func (cfg *MySQLConn) Close() {
 	sqlDB, err := cfg.DB.DB()
 	if err != nil {
