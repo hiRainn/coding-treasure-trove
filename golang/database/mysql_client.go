@@ -22,6 +22,7 @@ type MySQLConn struct {
 	DBName   string
 }
 
+//build new connect
 func (cfg *MySQLConn) NewConn() (err error) {
 	dsn := fmt.Sprintf(`%s:%s@tcp(%s:%d)/?charset=utf8&parseTime=True&loc=Local&readTimeout=30s&multiStatements=true`, cfg.Username, cfg.Password, cfg.Host, cfg.Port)
 	newLogger := logger.New(
